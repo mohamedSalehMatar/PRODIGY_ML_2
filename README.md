@@ -1,2 +1,2 @@
-# PRODIGY_ML_2
-K-means clustering implementation to group customers
+# K-means clustering implementation to group customers
+This project was made a part of InfoTech internship
